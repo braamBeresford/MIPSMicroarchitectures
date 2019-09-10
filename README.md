@@ -5,7 +5,7 @@
 
 ### Current MIPS Projects:
 
-[Single Cycle 32 bit MIPS](https://github.com/braamBeresford/32bitMipsSingleCycle)
+* [Single Cycle 32 bit MIPS](https://github.com/braamBeresford/32bitMipsSingleCycle)
 
 ### Non MIPS Projects:
-[Pong outputted to VGA](https://github.com/braamBeresford/systemVerilogPong)
+* [Pong outputted to VGA](https://github.com/braamBeresford/systemVerilogPong)
